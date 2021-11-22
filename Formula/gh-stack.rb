@@ -1,4 +1,4 @@
-class GHStack < Formula
+class GhStack < Formula
   desc "Cross-platform Text Expander written in Rust"
   homepage "https://github.com/luqven/gh-stack"
   version "v0.2.0-beta"
