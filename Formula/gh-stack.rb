@@ -1,9 +1,9 @@
 class GhStack < Formula
   desc "Cross-platform Text Expander written in Rust"
   homepage "https://github.com/luqven/gh-stack"
-  version "v0.3.0-beta-2"
+  version "v0.3.0"
   url "https://github.com/luqven/gh-stack/releases/download/#{version}/gh-stack-mac.tar.gz"
-  sha256 "7a4ece47eaae0877a9a0611807a29d8fd111b2531e150641538348fcc258e515"
+  sha256 "b17998ce46a1047817b841eb738a8a30d8b0a77bcca346fedeb6e2298af2c929"
 
   def install
     bin.install "gh-stack"
