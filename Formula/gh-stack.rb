@@ -1,5 +1,5 @@
 class GhStack < Formula
-  desc "Cross-platform Text Expander written in Rust"
+  desc "Manage PR stacks/chains on Github"
   homepage "https://github.com/luqven/gh-stack"
   version "v0.3.0"
   url "https://github.com/luqven/gh-stack/releases/download/#{version}/gh-stack-mac.tar.gz"
