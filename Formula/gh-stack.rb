@@ -1,9 +1,9 @@
 class GhStack < Formula
   desc "Manage PR stacks/chains on Github"
   homepage "https://github.com/luqven/gh-stack"
-  version "v0.6.0"
+  version "v0.7.0"
   url "https://github.com/luqven/gh-stack/releases/download/#{version}/gh-stack-mac.tar.gz"
-  sha256 "70342a5a6d46438461f28933cfd5ea95e9c3d20993c307de67d4a645f06ca1e7"
+  sha256 "37962ac377d47e9639ce58d0ac0d02306efe5b37ad879c9a10cd446e86824e0a"
 
   def install
     bin.install "gh-stack"
